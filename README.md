@@ -8,7 +8,7 @@ ShellOne is a Python script for generating PHP reverse shells that can be used t
 1. Clone the repository to your local machine using [Git](https://git-scm.com/):
 
    ```bash
-   git clone https://github.com/your-username/ShellOne.git
+   git clone https://github.com/Akashkampili1/ShellOne.git
 
 2.Navigate to the project directory:
 
